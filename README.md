@@ -19,7 +19,7 @@ http://127.0.0.1:8765/heartmula-web.html
 
 ## Render Deploy
 
-This repo includes `render.yaml`.
+This repo includes `render.yaml` and pins Python to 3.11.9 for Render.
 
 Render should use:
 
